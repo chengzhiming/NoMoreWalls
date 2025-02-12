@@ -1,10 +1,4 @@
 proxies:
-- cipher: chacha20-ietf-poly1305
-  name: 0|🇭🇰1 |  2.2MB/s
-  password: d626953d-cde0-4f52-9554-a12b116f853c
-  port: 36141
-  server: free.2weradf.xyz
-  type: ss
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
@@ -17,7 +11,7 @@ proxies:
   type: vmess
   uuid: c7e04382-01be-40ab-b174-4dbff44b5cf4
 - client-fingerprint: chrome
-  name: 13,14,15|HK_speednode_0018
+  name: 13,14|香港4|@ripaojiedian
   network: tcp
   password: 43e5eeacbad3032bfe4c25a2f011b6b7
   port: 443
@@ -25,19 +19,13 @@ proxies:
   skip-cert-verify: true
   sni: hezijiasuqi.com
   type: trojan
-  udp: true
-- name: 14|香港|@ripaojiedian
+- alterId: 0
+  cipher: auto
+  name: 14|香港|@ripaojiedian
   network: tcp
-  password: a4eb528a0de18c7d7083aeec1a9abcb6
-  port: 58237
-  server: 8.138.35.67
-  skip-cert-verify: true
-  sni: apps.mzstatic.com
-  type: trojan
-- name: 14|香港2|@ripaojiedian
-  network: tcp
-  password: 299beacf-37f0-41c6-a122-9260c75731bf
-  port: 49782
-  server: 41699d8ad5e758d2c6e42c1e7f40e820.v1.cac.node-is.green
-  sni: hk12.bilibili.com
-  type: trojan
+  port: '49691'
+  server: 193.42.25.242
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: c7e04382-01be-40ab-b174-4dbff44b5cf4

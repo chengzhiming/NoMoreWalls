@@ -16,11 +16,12 @@ proxies:
   sni: sincere-stud.adder289.quest
   type: trojan
 - client-fingerprint: chrome
-  name: 13|🇰🇷 韩国3|@ripaojiedian
+  name: 13,14|韩国3|@ripaojiedian
+  network: tcp
   password: 5af7fa3a-ad9c-4346-ba7f-184e89c91758
   port: 51075
   server: lm.kaiqsz.com
-  skip-cert-verify: false
+  skip-cert-verify: true
   sni: mmbiz10.redapricotcloud.com
   type: trojan
 - cipher: aes-256-cfb
@@ -31,21 +32,10 @@ proxies:
   server: 52.197.129.53
   tfo: false
   type: ss
-- name: 14|韩国|@ripaojiedian
-  network: tcp
-  password: '!!str 68711066374000300'
-  port: 443
-  server: star-anchovy.shiner427.skin
-  type: trojan
 - name: 14|韩国2|@ripaojiedian
-  network: ws
-  password: Aimer
-  port: 50000
-  server: 14.37.56.164
+  network: tcp
+  password: '!!str 3782591447421952000'
+  port: 443
+  server: sincere-stud.adder289.quest
   skip-cert-verify: true
-  sni: agepw.ambercc.filegear-sg.me
   type: trojan
-  ws-opts:
-    headers:
-      Host: agepw.ambercc.filegear-sg.me
-    path: '%2F%3Fed%3D2560'

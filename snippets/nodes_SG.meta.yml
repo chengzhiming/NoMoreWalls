@@ -1,47 +1,4 @@
 proxies:
-- client-fingerprint: chrome
-  name: 0|🇸🇬1 |  1.9MB/s|61%|Youtube|Ope...
-  password: 25d55ad283aa400af464c76d713c07ad
-  port: 8444
-  server: singapore02.sqx001.com
-  skip-cert-verify: true
-  sni: singapore02.sqx001.com
-  tls: true
-  type: http
-  udp: true
-  username: podbbylf@mayorlogistic.com
-- client-fingerprint: chrome
-  flow: none
-  name: 0,15|US_speednode_0126
-  network: ws
-  port: 8080
-  server: support.zoom.us
-  servername: xrr.rtxconfigz.xyz
-  skip-cert-verify: true
-  tls: false
-  type: vless
-  udp: true
-  uuid: 291c27a5-34d2-4081-83cc-2196cd208148
-  ws-opts:
-    headers:
-      Host: xrr.rtxconfigz.xyz
-    path: /
-- delay: 2919
-  name: 0,15|US_speednode_0127
-  network: ws
-  port: 8080
-  server: 170.114.46.6
-  servername: xrr.rtxconfigz.xyz
-  skip-cert-verify: true
-  tls: false
-  type: vless
-  udp: true
-  uuid: 291c27a5-34d2-4081-83cc-2196cd208148
-  ws-opts:
-    headers:
-      Host: xrr.rtxconfigz.xyz
-    path: /
-  xudp: true
 - alterId: 2
   cipher: auto
   client-fingerprint: chrome
@@ -80,31 +37,3 @@ proxies:
   tls: false
   type: vmess
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-- name: 15|SG_speednode_0082
-  network: ws
-  port: 8880
-  server: 92.243.74.20
-  servername: us.laoyoutiao.link
-  skip-cert-verify: false
-  tls: false
-  type: vless
-  udp: true
-  uuid: fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf
-  ws-opts:
-    headers:
-      Host: us.laoyoutiao.link
-    path: /TelegramU0001F1E8U0001F1F3 @MxlShare @WangCai2 /?ed=2560
-- name: 15|SG_speednode_0083
-  network: ws
-  port: 2087
-  server: 27.50.48.18
-  servername: edccx.aimercc.filegear-sg.me
-  skip-cert-verify: true
-  tls: true
-  type: vless
-  udp: true
-  uuid: ee6774c0-9b19-4ff1-8b30-2da4b71977e2
-  ws-opts:
-    headers:
-      Host: edccx.aimercc.filegear-sg.me
-    path: /?ed=2560

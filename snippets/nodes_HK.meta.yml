@@ -60,7 +60,8 @@ proxies:
   type: vmess
   uuid: 6831c9ce-4ca8-42c0-8181-fb1055710ccc
 - client-fingerprint: chrome
-  name: 13|🇭🇰 香港5|@ripaojiedian
+  name: 13,14|香港5|@ripaojiedian
+  network: tcp
   password: 2c605663-b89a-5734-a9d6-97d4743d72cf
   port: 8313
   server: dozo01.flztjc.top
@@ -81,10 +82,11 @@ proxies:
 - alterId: 2
   cipher: auto
   client-fingerprint: chrome
-  name: 13|🇭🇰 香港7|@ripaojiedian
+  name: 13,14|香港7|@ripaojiedian
   network: ws
-  port: 30809
+  port: '30809'
   server: v9.heduian.link
+  servername: ''
   skip-cert-verify: false
   tfo: false
   tls: false
@@ -102,6 +104,46 @@ proxies:
   server: 45.196.234.135
   skip-cert-verify: false
   tfo: false
+  tls: false
+  type: vmess
+  uuid: 26312aa7-13a8-40c9-9c37-da0cdfc2d225
+- alterId: 64
+  cipher: auto
+  name: 14|香港3|@ripaojiedian
+  network: tcp
+  port: '35921'
+  server: 120.198.71.216
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+- alterId: 0
+  cipher: auto
+  name: 14|香港4|@ripaojiedian
+  network: tcp
+  port: '13651'
+  server: 103.30.76.66
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 6831c9ce-4ca8-42c0-8181-fb1055710ccc
+- alterId: 0
+  cipher: auto
+  name: 14|香港6|@ripaojiedian
+  network: tcp
+  port: '45939'
+  server: 103.30.76.218
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 268fe594-cd35-4038-8bc1-1086ada27fe8
+- alterId: 0
+  cipher: auto
+  name: 14|香港8|@ripaojiedian
+  network: tcp
+  port: '29714'
+  server: 45.196.234.135
+  servername: ''
   tls: false
   type: vmess
   uuid: 26312aa7-13a8-40c9-9c37-da0cdfc2d225

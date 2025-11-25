@@ -308,7 +308,7 @@ proxies:
   sni: hsdg.huasuan666.top
   tls: false
   type: hysteria2
-- name: 8|All-@V2ray_Alpha--39
+- name: '8|All-@V2rayAlpha--3 #1'
   password: 571ec94e-613c-430a-93de-397d3d237475
   port: 22157
   server: hshl.huasuan666.top
@@ -835,6 +835,13 @@ proxies:
   server: sb2.oomz.ru
   skip-cert-verify: true
   sni: bing.com
+  tls: false
+  type: hysteria2
+- name: '8|@meli_proxyy #8'
+  password: da9adc6f-03ca-4d32-9e93-7b2bdbc9b00d
+  port: 21105
+  server: tr.xn--gmq00sc0nuve.shop
+  skip-cert-verify: true
   tls: false
   type: hysteria2
 - name: 8|🇸@FreakConfig

@@ -12,7 +12,7 @@ hysteria2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@ffc60249-t53wg0-t92wi1-1qkeg.hk
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#8%7C%40V2rayNG3%20%231
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?insecure=1&sni=jnir.pichondan.com&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#8%7C%40V2rayNG3%20%232
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?insecure=0&sni=api.kermanshahi.org#8%7C%EF%B8%8F%40ATLAS_V2VPN%EF%B8%8F%EF%B8%8F197%EF%B8%8F
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?insecure=0&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#8%7C%40icv2ray
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?insecure=0&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#8%7C%40meliproxyy
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#8%7C%40V2rayNG3%20%233
 hysteria2://bd515574-3b10-11ee-ac14-f23c9164ca5d@ad72fc1d-t70f40-tb016b-1m7l4.hk1.hyhuawei.com:443?insecure=1#8%7C%F0%9F%A5%9082%40oneclickvpnkeys
 hysteria2://c3dc8d26-ab2b-11ec-a8bf-f23c91cfbbc9@72b99e3a-t6pb40-t8wh4m-1hpo0.hk1.hyhuawei.com:443?#8%7C%F0%9F%A5%9076%40oneclickvpnkeys
@@ -63,5 +63,5 @@ vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@developers.cloudflare.com:2095?allo
 vless://2275e858-8aff-44fe-b816-d85c2ab372e5@afrcloud4.c01.kr:443?allowInsecure=0&sni=afrcloud4.c01.kr&type=ws&host=afrcloud4.c01.kr&path=/47.254.255.125=443fp=chrome&security=tls#15%7CUS_speednode_0040
 vless://a2a396c3-f40e-4dee-bdbb-b1201f12dc1c@104.26.12.27:2053?allowInsecure=0&sni=snippet.danfeng21.ndjp.net&type=ws&host=snippet.danfeng21.ndjp.net&path=/danfengfp=chrome&security=tls#15%7CUS_speednode_0041
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.epicgames.com:2095?allowInsecure=0&sni=cnm-fangbinxing-nmsl.cnm-fangbinxing-nmsl-wcnm.workers.dev&type=ws&host=cnm-fangbinxing-nmsl.cnm-fangbinxing-nmsl-wcnm.workers.dev&path=/fp=randomized#15%7CUS_speednode_0042
-https://AeTNjX.absslk.xyz/4375701d5d4779fecdc45a164f859d48
-https://KFduCV.mcsslk.xyz/fef51ebef6d9fcdcf454b6f6e908ae1c
+https://4hcIcA.mcsslk.xyz/6685fdcfdbe1c695f708bfe996aeb31e
+https://D1rb5i.absslk.xyz/f3d124d445da2dc3a872dc93071e6fd2
